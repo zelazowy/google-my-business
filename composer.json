@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "google/apiclient": "^1.1"
+        "google/apiclient": ">=1.1"
     },
     "autoload": {
         "files": [
